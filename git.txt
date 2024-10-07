@@ -264,3 +264,9 @@ git merge
 من الممكن ان تقوم بتحميل البيانات و دمجها فى خطوه واحده 
 git pull
 >
+
+>>>>>>  GitHub لل update نعمل
+
+<
+git push origin main
+>
